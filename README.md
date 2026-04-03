@@ -1,5 +1,3 @@
-markdown
-
 # 🚀 facilitamint
 
 ![Linux](https://shields.io)
