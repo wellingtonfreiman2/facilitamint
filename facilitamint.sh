@@ -46,4 +46,3 @@ sudo apt autoremove -y && sudo apt autoclean
 
 echo -e "${VERDE}✅ Instalação concluída com sucesso!${SEM_COR}"
 echo "DICA: Reinicie o sistema para aplicar todas as mudanças."
-
