@@ -1,3 +1,11 @@
+## ⚡ Instalação Automática (One-liner)
+
+Abra o seu terminal e cole o comando abaixo:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/wellingtonfreiman2/facilitamint/refs/heads/main/facilitamint.sh | bash
+
+
 # 🚀 facilitamint
 
 ![Linux](https://shields.io)
@@ -12,34 +20,10 @@ Este é um script de automação em Bash projetado para transformar uma instala�
 
 ### O que este script faz:
 *   **Gaming:** Instala Steam, Lutris, Heroic, MangoHud e GameMode.
-*   Multimidia OBS Studio.
-*   **Terminal:** Configura Zsh, Oh My Zsh, Plugins (Highlighting/Autosuggestions) e Nerd Fonts.
-*   **Apps:** Discord, VLC e Mission Center.
+*   **Multimídia:** Instala OBS Studio, VLC e codecs essenciais.
+*   **Terminal:** Configura Zsh, Oh My Zsh e Plugins (Highlighting/Autosuggestions).
+*   **Apps:** Discord e Mission Center (Monitor de sistema).
+*   **Sistema:** Realiza limpeza e verificação de integridade automática.
 
 ---
-## ⚡ Instalação Automática (One-liner)
 
-Abra o seu terminal e cole o comando abaixo:
-
-```bash
-curl -sSL https://raw.githubusercontent.com/wellingtonfreiman2/facilitamint/refs/heads/main/facilitamint.sh | bash
-
-
-
-
-🤝 Como Contribuir
-Contribuições tornam a comunidade incrível! Sinta-se à vontade para ajudar:
-
-    Faça um Fork do projeto.
-    Crie uma Branch (git checkout -b feature/NovaMelhoria).
-    Faça o Commit (git commit -m 'Adicionei x recurso').
-    Dê um Push (git push origin feature/NovaMelhoria).
-    Abra um Pull Request.
-
-Ideias para o futuro:
-
-    Suporte a drivers NVIDIA/AMD automáticos.
-    Instalação de temas GTK/Ícones.
-    Suporte a outras distros (Fedora/Arch).
-
-📦 Criado por wellingtonfreiman
