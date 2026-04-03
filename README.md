@@ -22,8 +22,7 @@ Este é um script de automação em Bash projetado para transformar uma instala�
 Abra o seu terminal e cole o comando abaixo:
 
 ```bash
-curl -sSL https://githubusercontent.com | bash
-
+curl -sSL https://raw.githubusercontent.com/wellingtonfreiman2/facilitamint/refs/heads/main/facilitamint.sh | bash
 
 
 
