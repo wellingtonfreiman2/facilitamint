@@ -17,13 +17,13 @@ Este é um script de automação em Bash projetado para transformar uma instala�
 *   **Apps:** Discord, VLC e Mission Center.
 
 ---
-
 ## ⚡ Instalação Automática (One-liner)
 
 Abra o seu terminal e cole o comando abaixo:
 
 ```bash
 curl -sSL https://githubusercontent.com | bash
+
 
 🤝 Como Contribuir
 Contribuições tornam a comunidade incrível! Sinta-se à vontade para ajudar:
