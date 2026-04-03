@@ -12,7 +12,7 @@ Este é um script de automação em Bash projetado para transformar uma instala�
 
 ### O que este script faz:
 *   **Gaming:** Instala Steam, Lutris, Heroic, MangoHud e GameMode.
-*   **Design:** Instala GIMP (com patch PhotoGIMP) e OBS Studio.
+*   Multimidia OBS Studio.
 *   **Terminal:** Configura Zsh, Oh My Zsh, Plugins (Highlighting/Autosuggestions) e Nerd Fonts.
 *   **Apps:** Discord, VLC e Mission Center.
 
