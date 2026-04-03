@@ -1,15 +1,17 @@
 # 🎮 Facilitamint
 
-cript Bash para configuração completa no Linux (Debian/Ubuntu). Instala ferramentas para jogos (Steam, Lutris, Heroic, MangoHud), gravação e streaming (OBS) e aplicativos de sistema (VLC, Discord). Configura o Oh My Zsh com plugins de syntax highlighting e autosuggestions para um terminal mais produtivo.
+Execute o comando abaixo no terminal:
+
+`curl -sSL https://raw.githubusercontent.com/wellingtonfreiman2/facilitamint/main/facilitamint.sh | bash`
+
+
+Script Bash para configuração completa no Linux (Debian/Ubuntu). Instala ferramentas para jogos (Steam, Lutris, Heroic, MangoHud), gravação e streaming (OBS) e aplicativos de sistema (VLC, Discord). Configura o Oh My Zsh com plugins de syntax highlighting e autosuggestions para um terminal mais produtivo.
 
 English:
 Bash script for complete setup on Linux (Debian/Ubuntu). Installs gaming tools (Steam, Lutris, Heroic, MangoHud), recording/streaming software (OBS), and system apps (VLC, Discord). Sets up Oh My Zsh with syntax highlighting and autosuggestion plugins for a more productive terminal.
 
 ## ⚡ Instalação
 
-Execute o comando abaixo no terminal:
-
-`curl -sSL https://raw.githubusercontent.com/wellingtonfreiman2/facilitamint/main/facilitamint.sh | bash`
 
 ## 📦 O que instala
 
