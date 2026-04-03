@@ -25,6 +25,8 @@ Abra o seu terminal e cole o comando abaixo:
 curl -sSL https://githubusercontent.com | bash
 
 
+
+
 🤝 Como Contribuir
 Contribuições tornam a comunidade incrível! Sinta-se à vontade para ajudar:
 
