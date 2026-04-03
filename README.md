@@ -26,6 +26,7 @@ curl -sSL https://raw.githubusercontent.com/wellingtonfreiman2/facilitamint/refs
 
 
 
+
 🤝 Como Contribuir
 Contribuições tornam a comunidade incrível! Sinta-se à vontade para ajudar:
 
