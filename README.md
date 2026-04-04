@@ -1,4 +1,4 @@
-# 🎮 Facilitamint
+# 🎮 FacilitaMint
 
 Execute o comando abaixo no terminal:
 
